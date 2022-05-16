@@ -1,0 +1,15 @@
+C:\Users\amon.pereira\source\repos\MWU\MWU.Infra\obj\Debug\net5.0\MWU.Infra.csproj.AssemblyReference.cache
+C:\Users\amon.pereira\source\repos\MWU\MWU.Infra\obj\Debug\net5.0\MWU.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amon.pereira\source\repos\MWU\MWU.Infra\obj\Debug\net5.0\MWU.Infra.AssemblyInfoInputs.cache
+C:\Users\amon.pereira\source\repos\MWU\MWU.Infra\obj\Debug\net5.0\MWU.Infra.AssemblyInfo.cs
+C:\Users\amon.pereira\source\repos\MWU\MWU.Infra\obj\Debug\net5.0\MWU.Infra.csproj.CoreCompileInputs.cache
+C:\Users\amon.pereira\source\repos\MWU\MWU.Infra\bin\Debug\net5.0\MWU.Infra.deps.json
+C:\Users\amon.pereira\source\repos\MWU\MWU.Infra\bin\Debug\net5.0\MWU.Infra.dll
+C:\Users\amon.pereira\source\repos\MWU\MWU.Infra\bin\Debug\net5.0\ref\MWU.Infra.dll
+C:\Users\amon.pereira\source\repos\MWU\MWU.Infra\bin\Debug\net5.0\MWU.Infra.pdb
+C:\Users\amon.pereira\source\repos\MWU\MWU.Infra\bin\Debug\net5.0\MWU.Domain.dll
+C:\Users\amon.pereira\source\repos\MWU\MWU.Infra\bin\Debug\net5.0\MWU.Domain.pdb
+C:\Users\amon.pereira\source\repos\MWU\MWU.Infra\obj\Debug\net5.0\MWU.Infra.csproj.CopyComplete
+C:\Users\amon.pereira\source\repos\MWU\MWU.Infra\obj\Debug\net5.0\MWU.Infra.dll
+C:\Users\amon.pereira\source\repos\MWU\MWU.Infra\obj\Debug\net5.0\ref\MWU.Infra.dll
+C:\Users\amon.pereira\source\repos\MWU\MWU.Infra\obj\Debug\net5.0\MWU.Infra.pdb

@@ -1,0 +1,263 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.CrossCutting\\MWU.CrossCutting.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Application\\MWU.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Application\\MWU.Application.csproj",
+        "projectName": "MWU.Application",
+        "projectPath": "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Application\\MWU.Application.csproj",
+        "packagesPath": "C:\\Users\\amon.pereira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\amon.pereira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Domain\\MWU.Domain.csproj": {
+                "projectPath": "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Domain\\MWU.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.CrossCutting\\MWU.CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.CrossCutting\\MWU.CrossCutting.csproj",
+        "projectName": "MWU.CrossCutting",
+        "projectPath": "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.CrossCutting\\MWU.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\amon.pereira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.CrossCutting\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\amon.pereira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Application\\MWU.Application.csproj": {
+                "projectPath": "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Application\\MWU.Application.csproj"
+              },
+              "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Infra\\MWU.Infra.csproj": {
+                "projectPath": "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Infra\\MWU.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Domain\\MWU.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Domain\\MWU.Domain.csproj",
+        "projectName": "MWU.Domain",
+        "projectPath": "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Domain\\MWU.Domain.csproj",
+        "packagesPath": "C:\\Users\\amon.pereira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\amon.pereira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Infra\\MWU.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Infra\\MWU.Infra.csproj",
+        "projectName": "MWU.Infra",
+        "projectPath": "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Infra\\MWU.Infra.csproj",
+        "packagesPath": "C:\\Users\\amon.pereira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\amon.pereira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Domain\\MWU.Domain.csproj": {
+                "projectPath": "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Domain\\MWU.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

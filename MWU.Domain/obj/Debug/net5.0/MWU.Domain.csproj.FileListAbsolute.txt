@@ -1,0 +1,12 @@
+C:\Users\amon.pereira\source\repos\MWU\MWU.Domain\obj\Debug\net5.0\MWU.Domain.csproj.AssemblyReference.cache
+C:\Users\amon.pereira\source\repos\MWU\MWU.Domain\obj\Debug\net5.0\MWU.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amon.pereira\source\repos\MWU\MWU.Domain\obj\Debug\net5.0\MWU.Domain.AssemblyInfoInputs.cache
+C:\Users\amon.pereira\source\repos\MWU\MWU.Domain\obj\Debug\net5.0\MWU.Domain.AssemblyInfo.cs
+C:\Users\amon.pereira\source\repos\MWU\MWU.Domain\obj\Debug\net5.0\MWU.Domain.csproj.CoreCompileInputs.cache
+C:\Users\amon.pereira\source\repos\MWU\MWU.Domain\bin\Debug\net5.0\MWU.Domain.deps.json
+C:\Users\amon.pereira\source\repos\MWU\MWU.Domain\bin\Debug\net5.0\MWU.Domain.dll
+C:\Users\amon.pereira\source\repos\MWU\MWU.Domain\bin\Debug\net5.0\ref\MWU.Domain.dll
+C:\Users\amon.pereira\source\repos\MWU\MWU.Domain\bin\Debug\net5.0\MWU.Domain.pdb
+C:\Users\amon.pereira\source\repos\MWU\MWU.Domain\obj\Debug\net5.0\MWU.Domain.dll
+C:\Users\amon.pereira\source\repos\MWU\MWU.Domain\obj\Debug\net5.0\ref\MWU.Domain.dll
+C:\Users\amon.pereira\source\repos\MWU\MWU.Domain\obj\Debug\net5.0\MWU.Domain.pdb

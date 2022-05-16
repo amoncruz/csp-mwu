@@ -1,0 +1,15 @@
+C:\Users\amon.pereira\source\repos\MWU\MWU.Application\obj\Debug\net5.0\MWU.Application.csproj.AssemblyReference.cache
+C:\Users\amon.pereira\source\repos\MWU\MWU.Application\obj\Debug\net5.0\MWU.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amon.pereira\source\repos\MWU\MWU.Application\obj\Debug\net5.0\MWU.Application.AssemblyInfoInputs.cache
+C:\Users\amon.pereira\source\repos\MWU\MWU.Application\obj\Debug\net5.0\MWU.Application.AssemblyInfo.cs
+C:\Users\amon.pereira\source\repos\MWU\MWU.Application\obj\Debug\net5.0\MWU.Application.csproj.CoreCompileInputs.cache
+C:\Users\amon.pereira\source\repos\MWU\MWU.Application\bin\Debug\net5.0\MWU.Application.deps.json
+C:\Users\amon.pereira\source\repos\MWU\MWU.Application\bin\Debug\net5.0\MWU.Application.dll
+C:\Users\amon.pereira\source\repos\MWU\MWU.Application\bin\Debug\net5.0\ref\MWU.Application.dll
+C:\Users\amon.pereira\source\repos\MWU\MWU.Application\bin\Debug\net5.0\MWU.Application.pdb
+C:\Users\amon.pereira\source\repos\MWU\MWU.Application\bin\Debug\net5.0\MWU.Domain.dll
+C:\Users\amon.pereira\source\repos\MWU\MWU.Application\bin\Debug\net5.0\MWU.Domain.pdb
+C:\Users\amon.pereira\source\repos\MWU\MWU.Application\obj\Debug\net5.0\MWU.Application.csproj.CopyComplete
+C:\Users\amon.pereira\source\repos\MWU\MWU.Application\obj\Debug\net5.0\MWU.Application.dll
+C:\Users\amon.pereira\source\repos\MWU\MWU.Application\obj\Debug\net5.0\ref\MWU.Application.dll
+C:\Users\amon.pereira\source\repos\MWU\MWU.Application\obj\Debug\net5.0\MWU.Application.pdb

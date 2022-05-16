@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MWU.Application\MWU.Application.csproj" />
+    <ProjectReference Include="..\MWU.Infra\MWU.Infra.csproj" />
+  </ItemGroup>
+
+</Project>

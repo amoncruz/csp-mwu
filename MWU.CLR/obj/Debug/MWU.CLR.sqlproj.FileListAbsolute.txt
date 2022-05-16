@@ -1,0 +1,9 @@
+C:\Users\amon.pereira\source\repos\MWU\MWU.CLR\bin\Debug\MWU.CLR.dacpac
+C:\Users\amon.pereira\source\repos\MWU\MWU.CLR\bin\Debug\MWU.CLR.dll
+C:\Users\amon.pereira\source\repos\MWU\MWU.CLR\bin\Debug\MWU.CLR.pdb
+C:\Users\amon.pereira\source\repos\MWU\MWU.CLR\obj\Debug\Model.xml
+C:\Users\amon.pereira\source\repos\MWU\MWU.CLR\obj\Debug\refactor.xml
+C:\Users\amon.pereira\source\repos\MWU\MWU.CLR\obj\Debug\postdeploy.sql
+C:\Users\amon.pereira\source\repos\MWU\MWU.CLR\obj\Debug\predeploy.sql
+C:\Users\amon.pereira\source\repos\MWU\MWU.CLR\obj\Debug\MWU.CLR.dll
+C:\Users\amon.pereira\source\repos\MWU\MWU.CLR\obj\Debug\MWU.CLR.pdb
