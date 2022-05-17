@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lmdDJpNyuhicPbj7+NwZITG9v/S0gWyX9opJqJVPwelFJe1ekKegSlNS14d9gWFySUN4dug4y/5Hocb4/TlaXg==",
+  "dgSpecHash": "6FAUEaZ4Q8hRdicnOZ50yVthWXRy990gpBwqR1GO4/lMBDfS6UryVpvrxfulGMw2cgdLPNf9Ab8Xzhbse8hNRA==",
   "success": true,
   "projectFilePath": "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.CrossCutting\\MWU.CrossCutting.csproj",
   "expectedPackageFiles": [
@@ -37,6 +37,7 @@
     "C:\\Users\\amon.pereira\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\amon.pereira\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\amon.pereira\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
+    "C:\\Users\\amon.pereira\\.nuget\\packages\\npgsql\\5.0.13\\npgsql.5.0.13.nupkg.sha512",
     "C:\\Users\\amon.pereira\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\amon.pereira\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\amon.pereira\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",

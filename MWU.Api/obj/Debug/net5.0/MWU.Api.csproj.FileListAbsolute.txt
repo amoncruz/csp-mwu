@@ -73,3 +73,5 @@ C:\Users\amon.pereira\source\repos\MWU\MWU.Api\obj\Debug\net5.0\MWU.Api.dll
 C:\Users\amon.pereira\source\repos\MWU\MWU.Api\obj\Debug\net5.0\ref\MWU.Api.dll
 C:\Users\amon.pereira\source\repos\MWU\MWU.Api\obj\Debug\net5.0\MWU.Api.pdb
 C:\Users\amon.pereira\source\repos\MWU\MWU.Api\obj\Debug\net5.0\MWU.Api.genruntimeconfig.cache
+C:\Users\amon.pereira\source\repos\MWU\MWU.Api\obj\Debug\net5.0\MWU.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\amon.pereira\source\repos\MWU\MWU.Api\bin\Debug\net5.0\Npgsql.dll

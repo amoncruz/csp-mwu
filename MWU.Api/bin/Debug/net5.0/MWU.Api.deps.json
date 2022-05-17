@@ -774,6 +774,20 @@
           "lib/netstandard1.3/Newtonsoft.Json.dll": {}
         }
       },
+      "Npgsql/5.0.13": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0"
+        },
+        "runtime": {
+          "lib/net5.0/Npgsql.dll": {
+            "assemblyVersion": "5.0.13.0",
+            "fileVersion": "5.0.13.0"
+          }
+        },
+        "compile": {
+          "lib/net5.0/Npgsql.dll": {}
+        }
+      },
       "runtime.native.System/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "3.1.0",
@@ -1501,7 +1515,8 @@
         "dependencies": {
           "MWU.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.17",
-          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.17"
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.17",
+          "Npgsql": "5.0.13"
         },
         "runtime": {
           "MWU.Infra.dll": {}
@@ -3424,6 +3439,13 @@
       "sha512": "sha512-ebWzW9j2nwxQeBo59As2TYn7nYr9BHicqqCwHOD1Vdo+50HBtLPuqdiCYJcLdTRknpYis/DSEOQz5KmZxwrIAg==",
       "path": "newtonsoft.json/10.0.1",
       "hashPath": "newtonsoft.json.10.0.1.nupkg.sha512"
+    },
+    "Npgsql/5.0.13": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NdnQJk1U9UXnp44j9OT97YeczeF3BdjDgB08zdzDBpJY/l8G5G+jZIXeOp1VZeHQgMmD02BflZg9gMOVmWT+hQ==",
+      "path": "npgsql/5.0.13",
+      "hashPath": "npgsql.5.0.13.nupkg.sha512"
     },
     "runtime.native.System/4.3.0": {
       "type": "package",

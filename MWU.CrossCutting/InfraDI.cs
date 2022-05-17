@@ -7,7 +7,7 @@ namespace MWU.CrossCutting.Ioc
 {
     public static class InfraContainer
     {
-        public static IServiceCollection AddInfra(IServiceCollection services, IConfiguration configuration)
+        public static IServiceCollection AddDbContext(IServiceCollection services, IConfiguration configuration)
         {
             services.AddDbContext<MWUContext>(options => options.UseSqlServer(configuration.GetConnectionString("DB_MWU")));
             return services;

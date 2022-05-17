@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "uao/JHWvFc4NrbzeCw/8EKpwC8JjxrLcPh3BFKabA6HqXZG8Ax0LT0lkA5ZaNUK3K/RlOPnpVI3y7L/9bTKrhg==",
+  "dgSpecHash": "c1hfOiz3Y+s+9xfvI8XN6LpVNtEbbYnesXG8en8Lt7UveUSlbDrBIHuwN8ZEjMGYhKzryQraZyIoEw7l3wwKrg==",
   "success": true,
   "projectFilePath": "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Api\\MWU.Api.csproj",
   "expectedPackageFiles": [
@@ -39,6 +39,7 @@
     "C:\\Users\\amon.pereira\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\amon.pereira\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\amon.pereira\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
+    "C:\\Users\\amon.pereira\\.nuget\\packages\\npgsql\\5.0.13\\npgsql.5.0.13.nupkg.sha512",
     "C:\\Users\\amon.pereira\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\amon.pereira\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\amon.pereira\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
