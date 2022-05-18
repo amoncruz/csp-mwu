@@ -3,7 +3,7 @@
   <PropertyGroup>
     <StartupScript>(Blank)</StartupScript>
     <StartAction>StartNone</StartAction>
-    <TargetConnectionString>Data Source=172.16.1.23;Initial Catalog=dbMWU;Persist Security Info=True;User ID=mwu.user;Pooling=False;MultipleActiveResultSets=False;Connect Timeout=60;Encrypt=False;TrustServerCertificate=False</TargetConnectionString>
-    <TargetDatabase>dbMWU</TargetDatabase>
+    <TargetConnectionString>Data Source=DESKTOP-RF0GDPV\MSSQLSERVER2;Initial Catalog=MWU;Persist Security Info=True;User ID=sa;Pooling=False;MultipleActiveResultSets=False;Connect Timeout=60;Encrypt=False;TrustServerCertificate=False</TargetConnectionString>
+    <TargetDatabase>MWU</TargetDatabase>
   </PropertyGroup>
 </Project>

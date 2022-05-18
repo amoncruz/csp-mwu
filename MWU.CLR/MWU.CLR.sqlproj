@@ -6,7 +6,7 @@
     <Name>MWU.CLR</Name>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectVersion>4.1</ProjectVersion>
-    <ProjectGuid>{f7f507b2-6cac-4105-ad22-696a47b2582d}</ProjectGuid>
+    <ProjectGuid>{934ef84b-3420-45df-9065-e9c92637e53d}</ProjectGuid>
     <DSP>Microsoft.Data.Tools.Schema.Sql.Sql150DatabaseSchemaProvider</DSP>
     <OutputType>Database</OutputType>
     <RootPath>
@@ -23,7 +23,9 @@
     <IncludeCompositeObjects>True</IncludeCompositeObjects>
     <TargetDatabaseSet>True</TargetDatabaseSet>
     <PermissionSet>EXTERNAL_ACCESS</PermissionSet>
+    <DelaySign>True</DelaySign>
     <AssemblyOwner>dbo</AssemblyOwner>
+    <TargetFrameworkProfile />
     <SignAssembly>False</SignAssembly>
     <AssemblyOriginatorKeyFile>sa.pfx</AssemblyOriginatorKeyFile>
     <Trustworthy>True</Trustworthy>
@@ -68,9 +70,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="NWAY2MES_IdentificacaoVeiculoEMotorista.cs" />
-    <Compile Include="Integracao.cs" />
-    <Compile Include="SqlStoredProcedure1.cs" />
+    <Compile Include="SqlStoredProcedures.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="sa.pfx" />
