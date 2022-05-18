@@ -1,24 +1,29 @@
-﻿using MWU.Application.Abstractions;
+﻿using Microsoft.EntityFrameworkCore;
 using MWU.Domain.Abstractions.Repositories;
 using MWU.Domain.Entities.Procedures;
+using MWU.Infra.Data;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 
-namespace MWU.Application.Services
+namespace MWU.Infra.Repositories
 {
-    public class DadosIdentificacaoDeMotoristaEDeVeiculo : IDadosIdentificacaoDeMotoristaEDeVeiculo
+    public class DadosIdentificacaoDeMotoristaEDeVeiculoRepository : IDadosIdentificacaoDeMotoristaEDeVeiculoRepository
     {
-        private readonly IDadosIdentificacaoDeMotoristaEDeVeiculoRepository _repository;
+        private readonly NWAYContext _context;
 
-        public DadosIdentificacaoDeMotoristaEDeVeiculo(IDadosIdentificacaoDeMotoristaEDeVeiculoRepository repository)
+        public DadosIdentificacaoDeMotoristaEDeVeiculoRepository(NWAYContext context)
         {
-            _repository = repository;
+            _context = context;
         }
 
         public List<NWAY2MES_IdentificacaoVeiculoEMotorista> ConsultarNWAY_MotoristaEVeiculo()
         {
-            return _repository.ConsultarNWAY_MotoristaEVeiculo();
+            var dadosMotoristaEVeiculo = _context.NWAY2MES_IdentificacaoVeiculoEMotoristas.FromSqlRaw("EXEC sp_SelecionarMotoristasEVeiculosD_1").ToList();
+
+            return dadosMotoristaEVeiculo ?? new List<NWAY2MES_IdentificacaoVeiculoEMotorista>();
         }
+
         public NWAY2MES_IdentificacaoVeiculoEMotorista FormatarMensagem(string mensagem)
         {
             throw new NotImplementedException();
@@ -33,5 +38,6 @@ namespace MWU.Application.Services
         {
             throw new NotImplementedException();
         }
+
     }
 }

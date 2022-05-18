@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.CrossCutting\\MWU.CrossCutting.csproj": {}
+    "C:\\csp-mwu\\MWU.CrossCutting\\MWU.CrossCutting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Application\\MWU.Application.csproj": {
+    "C:\\csp-mwu\\MWU.Application\\MWU.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Application\\MWU.Application.csproj",
+        "projectUniqueName": "C:\\csp-mwu\\MWU.Application\\MWU.Application.csproj",
         "projectName": "MWU.Application",
-        "projectPath": "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Application\\MWU.Application.csproj",
-        "packagesPath": "C:\\Users\\amon.pereira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Application\\obj\\",
+        "projectPath": "C:\\csp-mwu\\MWU.Application\\MWU.Application.csproj",
+        "packagesPath": "C:\\Users\\amons\\.nuget\\packages\\",
+        "outputPath": "C:\\csp-mwu\\MWU.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\amon.pereira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\amons\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Domain\\MWU.Domain.csproj": {
-                "projectPath": "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Domain\\MWU.Domain.csproj"
+              "C:\\csp-mwu\\MWU.Domain\\MWU.Domain.csproj": {
+                "projectPath": "C:\\csp-mwu\\MWU.Domain\\MWU.Domain.csproj"
               }
             }
           }
@@ -72,21 +72,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.CrossCutting\\MWU.CrossCutting.csproj": {
+    "C:\\csp-mwu\\MWU.CrossCutting\\MWU.CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.CrossCutting\\MWU.CrossCutting.csproj",
+        "projectUniqueName": "C:\\csp-mwu\\MWU.CrossCutting\\MWU.CrossCutting.csproj",
         "projectName": "MWU.CrossCutting",
-        "projectPath": "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.CrossCutting\\MWU.CrossCutting.csproj",
-        "packagesPath": "C:\\Users\\amon.pereira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.CrossCutting\\obj\\",
+        "projectPath": "C:\\csp-mwu\\MWU.CrossCutting\\MWU.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\amons\\.nuget\\packages\\",
+        "outputPath": "C:\\csp-mwu\\MWU.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\amon.pereira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\amons\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -100,11 +100,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Application\\MWU.Application.csproj": {
-                "projectPath": "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Application\\MWU.Application.csproj"
+              "C:\\csp-mwu\\MWU.Application\\MWU.Application.csproj": {
+                "projectPath": "C:\\csp-mwu\\MWU.Application\\MWU.Application.csproj"
               },
-              "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Infra\\MWU.Infra.csproj": {
-                "projectPath": "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Infra\\MWU.Infra.csproj"
+              "C:\\csp-mwu\\MWU.Infra\\MWU.Infra.csproj": {
+                "projectPath": "C:\\csp-mwu\\MWU.Infra\\MWU.Infra.csproj"
               }
             }
           }
@@ -133,21 +133,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Domain\\MWU.Domain.csproj": {
+    "C:\\csp-mwu\\MWU.Domain\\MWU.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Domain\\MWU.Domain.csproj",
+        "projectUniqueName": "C:\\csp-mwu\\MWU.Domain\\MWU.Domain.csproj",
         "projectName": "MWU.Domain",
-        "projectPath": "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Domain\\MWU.Domain.csproj",
-        "packagesPath": "C:\\Users\\amon.pereira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Domain\\obj\\",
+        "projectPath": "C:\\csp-mwu\\MWU.Domain\\MWU.Domain.csproj",
+        "packagesPath": "C:\\Users\\amons\\.nuget\\packages\\",
+        "outputPath": "C:\\csp-mwu\\MWU.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\amon.pereira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\amons\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -187,21 +187,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Infra\\MWU.Infra.csproj": {
+    "C:\\csp-mwu\\MWU.Infra\\MWU.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Infra\\MWU.Infra.csproj",
+        "projectUniqueName": "C:\\csp-mwu\\MWU.Infra\\MWU.Infra.csproj",
         "projectName": "MWU.Infra",
-        "projectPath": "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Infra\\MWU.Infra.csproj",
-        "packagesPath": "C:\\Users\\amon.pereira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Infra\\obj\\",
+        "projectPath": "C:\\csp-mwu\\MWU.Infra\\MWU.Infra.csproj",
+        "packagesPath": "C:\\Users\\amons\\.nuget\\packages\\",
+        "outputPath": "C:\\csp-mwu\\MWU.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\amon.pereira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\amons\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -215,8 +215,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Domain\\MWU.Domain.csproj": {
-                "projectPath": "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Domain\\MWU.Domain.csproj"
+              "C:\\csp-mwu\\MWU.Domain\\MWU.Domain.csproj": {
+                "projectPath": "C:\\csp-mwu\\MWU.Domain\\MWU.Domain.csproj"
               }
             }
           }
@@ -242,6 +242,14 @@
             "Npgsql": {
               "target": "Package",
               "version": "[5.0.13, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL.Design": {
+              "target": "Package",
+              "version": "[1.1.0, )"
             }
           },
           "imports": [
@@ -259,7 +267,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

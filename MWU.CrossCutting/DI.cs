@@ -6,7 +6,7 @@ using MWU.Application.Services;
 using MWU.Domain.Abstractions.Repositories;
 using MWU.Infra.Repositories;
 
-namespace MWU.CrossCutting.Ioc
+namespace MWU.CrossCutting
 {
     public static class DI
     {
@@ -14,9 +14,12 @@ namespace MWU.CrossCutting.Ioc
         {
             services.AddValidatorsFromAssembly(Assembly.GetExecutingAssembly());
 
+            //Services
+            services.AddTransient(typeof(IMWU), typeof(MWUService));
             services.AddTransient(typeof(IRegistroEntradaESaida), typeof(RegistroEntradaESaida));
             services.AddTransient(typeof(IDadosIdentificacaoDeMotoristaEDeVeiculo), typeof(DadosIdentificacaoDeMotoristaEDeVeiculo));
-            services.AddTransient(typeof(IMWU), typeof(MWUService));
+            //REPO
+            services.AddTransient(typeof(IDadosIdentificacaoDeMotoristaEDeVeiculoRepository), typeof(DadosIdentificacaoDeMotoristaEDeVeiculoRepository));
             services.AddTransient(typeof(IIntegracaoRepository), typeof(IntegracaoRepository));
 
             return services;

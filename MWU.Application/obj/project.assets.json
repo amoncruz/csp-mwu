@@ -405,19 +405,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\amon.pereira\\.nuget\\packages\\": {}
+    "C:\\Users\\amons\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Application\\MWU.Application.csproj",
+      "projectUniqueName": "C:\\csp-mwu\\MWU.Application\\MWU.Application.csproj",
       "projectName": "MWU.Application",
-      "projectPath": "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Application\\MWU.Application.csproj",
-      "packagesPath": "C:\\Users\\amon.pereira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Application\\obj\\",
+      "projectPath": "C:\\csp-mwu\\MWU.Application\\MWU.Application.csproj",
+      "packagesPath": "C:\\Users\\amons\\.nuget\\packages\\",
+      "outputPath": "C:\\csp-mwu\\MWU.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\amon.pereira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\amons\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -431,8 +431,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Domain\\MWU.Domain.csproj": {
-              "projectPath": "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Domain\\MWU.Domain.csproj"
+            "C:\\csp-mwu\\MWU.Domain\\MWU.Domain.csproj": {
+              "projectPath": "C:\\csp-mwu\\MWU.Domain\\MWU.Domain.csproj"
             }
           }
         }
@@ -475,7 +475,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

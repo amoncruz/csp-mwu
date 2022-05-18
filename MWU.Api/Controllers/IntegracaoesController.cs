@@ -11,10 +11,12 @@ namespace MWU.Api.Controllers
     public class IntegracoesController : ControllerBase
     {
         private readonly IMWU _IMWUService;
+        private readonly IDadosIdentificacaoDeMotoristaEDeVeiculo _IdadosIdentificacao;
 
-        public IntegracoesController(IMWU iMWUService)
+        public IntegracoesController(IMWU iMWUService, IDadosIdentificacaoDeMotoristaEDeVeiculo idadosIdentificacao)
         {
             _IMWUService = iMWUService;
+            _IdadosIdentificacao = idadosIdentificacao;
         }
         // GET: api/<ValuesController>
         [HttpGet]
@@ -47,6 +49,12 @@ namespace MWU.Api.Controllers
         [HttpDelete("{id}")]
         public void Delete(Guid id)
         {
+        }
+
+        [HttpGet("ConsultarNWAY")]
+        public void ConsultarNWAY()
+        {
+            _IdadosIdentificacao.ConsultarNWAY_MotoristaEVeiculo();
         }
     }
 }

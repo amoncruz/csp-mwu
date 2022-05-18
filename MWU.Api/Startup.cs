@@ -7,7 +7,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
 using MWU.Api.Filters;
 using MWU.Application.DI;
-using MWU.CrossCutting.Ioc;
+using MWU.CrossCutting;
 
 namespace MWU.Api
 {
@@ -48,7 +48,7 @@ namespace MWU.Api
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "MWU.Api v1"));
             }
 
-            app.UseHttpsRedirection();
+            //app.UseHttpsRedirection();
 
             app.UseRouting();
 

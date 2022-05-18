@@ -1,9 +1,9 @@
 ﻿using MWU.Domain.Entities.Procedures;
 using System.Collections.Generic;
 
-namespace MWU.Application.Abstractions
+namespace MWU.Domain.Abstractions.Repositories
 {
-    public interface IDadosIdentificacaoDeMotoristaEDeVeiculo
+    public interface IDadosIdentificacaoDeMotoristaEDeVeiculoRepository
     {
         public List<NWAY2MES_IdentificacaoVeiculoEMotorista> ConsultarNWAY_MotoristaEVeiculo();
         public void IntegrarNWAY2MES(NWAY2MES_IdentificacaoVeiculoEMotorista mensagem);

@@ -10,3 +10,15 @@ C:\Users\amon.pereira\source\repos\MWU\MWU.Domain\bin\Debug\net5.0\MWU.Domain.pd
 C:\Users\amon.pereira\source\repos\MWU\MWU.Domain\obj\Debug\net5.0\MWU.Domain.dll
 C:\Users\amon.pereira\source\repos\MWU\MWU.Domain\obj\Debug\net5.0\ref\MWU.Domain.dll
 C:\Users\amon.pereira\source\repos\MWU\MWU.Domain\obj\Debug\net5.0\MWU.Domain.pdb
+C:\csp-mwu\MWU.Domain\bin\Debug\net5.0\MWU.Domain.deps.json
+C:\csp-mwu\MWU.Domain\bin\Debug\net5.0\MWU.Domain.dll
+C:\csp-mwu\MWU.Domain\bin\Debug\net5.0\ref\MWU.Domain.dll
+C:\csp-mwu\MWU.Domain\bin\Debug\net5.0\MWU.Domain.pdb
+C:\csp-mwu\MWU.Domain\obj\Debug\net5.0\MWU.Domain.csproj.AssemblyReference.cache
+C:\csp-mwu\MWU.Domain\obj\Debug\net5.0\MWU.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\csp-mwu\MWU.Domain\obj\Debug\net5.0\MWU.Domain.AssemblyInfoInputs.cache
+C:\csp-mwu\MWU.Domain\obj\Debug\net5.0\MWU.Domain.AssemblyInfo.cs
+C:\csp-mwu\MWU.Domain\obj\Debug\net5.0\MWU.Domain.csproj.CoreCompileInputs.cache
+C:\csp-mwu\MWU.Domain\obj\Debug\net5.0\MWU.Domain.dll
+C:\csp-mwu\MWU.Domain\obj\Debug\net5.0\ref\MWU.Domain.dll
+C:\csp-mwu\MWU.Domain\obj\Debug\net5.0\MWU.Domain.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oHUyKf/N15TDKglpNPvzCNfq0BEONdGZCRJdpaw/IqYvzn2Sr37fbFeBCPkeA7fgJj1EsTIRWrVVVYKDzyCY7g==",
+  "dgSpecHash": "howMTgLuOmSN9vHVN/MZ1z9f1NzB+6GBFEXE/WiWREwdMVTW4e75TBBhbZKkj+jh68xuKgR2CdJKnaFd8BiVHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\amon.pereira\\source\\repos\\MWU\\MWU.Domain\\MWU.Domain.csproj",
+  "projectFilePath": "C:\\csp-mwu\\MWU.Domain\\MWU.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
